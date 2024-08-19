@@ -5,7 +5,8 @@ This project demonstrates the implementation of a highly scalable, secure, and a
 
 ## 📜 Project Architecture
 
-![image](https://github.com/user-attachments/assets/05bf5de9-1556-4428-a146-9e3bdd4c50dc)
+![image](https://github.com/user-attachments/assets/4954d380-4630-48f8-a161-8671eb3ce616)
+
 
 
 ## 📘 Introduction
@@ -16,7 +17,8 @@ The architecture is built using AWS services and Terraform to automate the provi
 
 ## Final Output
 
-![image](https://github.com/user-attachments/assets/80906b59-d583-4a04-9afd-504785f2786e)
+![image](https://github.com/user-attachments/assets/b852da60-d170-4fb5-aa46-0edbd550c52a)
+
 
 
 ### Components
