@@ -1,26 +1,23 @@
 # 🌐 Three-Tier Web Architecture on AWS Using Terraform
 
-## 📜 Overview
+## 📜 Project Overview
 This project demonstrates the implementation of a highly scalable, secure, and available three-tier web architecture on AWS using Terraform. The architecture is designed to ensure redundancy, high availability, and fault tolerance, making it suitable for production-grade applications.
 
-## 📂 Table of Contents
-- [Introduction](#introduction)
-- [Architecture Overview](#architecture-overview)
-- [Components](#components)
-  - [VPC](#vpc)
-  - [Internet Gateway](#internet-gateway)
-  - [Web Tier](#web-tier)
-  - [Application Tier](#application-tier)
-  - [Database Tier](#database-tier)
-- [Traffic Flow](#traffic-flow)
-- [High Availability and Fault Tolerance](#high-availability-and-fault-tolerance)
-- [Conclusion](#conclusion)
+## 📜 Project Architecture
+
+![image](https://github.com/user-attachments/assets/05bf5de9-1556-4428-a146-9e3bdd4c50dc)
+
 
 ## 📘 Introduction
 The three-tier architecture is a well-established software architecture pattern that divides a web application into three layers: Web, Application, and Database. Each tier is responsible for a specific aspect of the application, ensuring separation of concerns and enhancing scalability, maintainability, and security.
 
 ## 🏗️ Architecture Overview
 The architecture is built using AWS services and Terraform to automate the provisioning of infrastructure. The three tiers are deployed in a Virtual Private Cloud (VPC) across multiple Availability Zones (AZs) to ensure high availability.
+
+## Final Output
+
+![image](https://github.com/user-attachments/assets/80906b59-d583-4a04-9afd-504785f2786e)
+
 
 ### Components
 #### 🌐 VPC
